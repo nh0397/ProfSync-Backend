@@ -88,6 +88,11 @@ Response:
 
 5. **Response Formatting**: The final response is formatted into HTML for easy rendering on the frontend.
 
+## Other code modules
+
+- Frontend module can be accessed [here](https://github.com/nh0397/ProfSync).
+- Code to generate and store data to pinecone can be accessed [here](https://github.com/nh0397/ProfSync-DataLoader)
+
 ## Contributing
 
 Contributions to ProfSync are welcome. Please follow these steps:
